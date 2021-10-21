@@ -26,7 +26,7 @@ const Page = () => {
       <Container>
         <Box
           borderRadius="lg"
-          bg={useColorModeValue('#e5ffa6', 'whiteAlpha.200')}
+          bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
           mt={6}
           mb={6}
           p={3}

@@ -92,15 +92,15 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2009</BioYear>
-            Started self-learning programming with python.
+            Started self-learning programming with Python.
           </BioSection>
           <BioSection>
             <BioYear>2020</BioYear>
-            Started to dedicate to learning web-dev.
+            Started to dedicate to Web-Development.
           </BioSection>
           <BioSection>
             <BioYear>2021</BioYear>
-            Graduated from National Taiwan Normal University, Piano Performance.
+            Graduated from National Taiwan Normal University in Piano Performance.
           </BioSection>
         </Section>
 

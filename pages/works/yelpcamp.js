@@ -12,7 +12,7 @@ const Work = () => (
       </Title>
       <P>
         A full-stack application with full CRUD functionality created without
-        any Javasctipt Library. It features authentication and authorization
+        any Javascript Library. It features authentication and authorization
         with best security practices. Integrates automatic geo-localization for the
         entered camps.
       </P>
@@ -30,8 +30,8 @@ const Work = () => (
         </ListItem>
       </List>
 
-      <WorkImage src="/images/yelpcamp-work1.png" alt="YelpCamp" />
-      <WorkImage src="/images/yelpcamp-work2.png" alt="YelpCamp" />
+      <WorkImage src="/images/Yelpcamp-work1.png" alt="YelpCamp" />
+      <WorkImage src="/images/Yelpcamp-work2.png" alt="YelpCamp" />
     </Container>
   </Layout>
 )

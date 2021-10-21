@@ -67,7 +67,7 @@ const Page = () => {
           </Heading>
           <Paragraph>
             Gabriel is a web-developer and designer with a passion for learning
-            and creating create beautiful websites and applications. He also has
+            and creating beautiful websites and applications. He also has
             a great drive to self-learn and discover new technologies in the
             ever-changing world of design and tech. Creativity tends to have no
             clear-cut boundaries, he is also a Musician and has played piano for

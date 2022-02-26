@@ -2,7 +2,7 @@ import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import { WorkGridItem } from '../components/grid-item'
 import Section from '../components/section'
 import thumbYelpCamp from '../public/images/yelpCamp.png'
-import thumbGreatQuotes from '../public/images/thumbGreatQuotes.png'
+import thumbPokeApp from '../public/images/thumbPokeApp.png'
 import Layout from '../components/layouts/article'
 
 const Works = () => {
@@ -26,11 +26,11 @@ const Works = () => {
           </Section>
           <Section>
             <WorkGridItem
-              id="greatquotes"
-              title="GreatQuotes"
-              thumbnail={thumbGreatQuotes}
+              id="pokeapp"
+              title="PokeApp"
+              thumbnail={thumbPokeApp}
             >
-              A React application to share and discuss famous quotes.
+              A full CRUD react application to store, search and learn about pokemon.
             </WorkGridItem>
           </Section>
         </SimpleGrid>

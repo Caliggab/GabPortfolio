@@ -32,7 +32,7 @@ const Page = () => {
           p={3}
           align="center"
         >
-          Hi! I'm a Web Developer and Musician based in Taiwan.
+          Hi! I'm a Web Developer and Musician based in El Salvador.
         </Box>
 
         <Box display={{ md: 'flex' }}>

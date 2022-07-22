@@ -71,7 +71,7 @@ const Page = () => {
             a great drive to self-learn and discover new technologies in the
             ever-changing world of design and tech. Creativity tends to have no
             clear-cut boundaries, he is also a Musician and has played piano for
-            more than 15 years. Currently he is located in Taipei.{' '}
+            more than 15 years. Currently he is located in El Salvador.{' '}
           </Paragraph>
           <Box align="center" my={4}>
             <NextLink href="/works">
@@ -106,7 +106,7 @@ const Page = () => {
 
         <Section delay={0.3}>
           <Heading as="h3" variant="section-title">
-            Things I ♥
+            Things I Like!
           </Heading>
           <Paragraph>
             Music, Photography, Design, Playing Piano, learning languages, Art.

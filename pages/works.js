@@ -3,6 +3,7 @@ import { WorkGridItem } from '../components/grid-item'
 import Section from '../components/section'
 import thumbYelpCamp from '../public/images/yelpCamp.png'
 import thumbPokeApp from '../public/images/thumbPokeApp.png'
+import thumbMyUni from '../public/images/thumbMyUni.png'
 import Layout from '../components/layouts/article'
 
 const Works = () => {
@@ -16,12 +17,11 @@ const Works = () => {
         <SimpleGrid columns={[1, 1, 2]} gap={6}>
           <Section>
             <WorkGridItem
-              id="yelpcamp"
-              title="YelpCamp"
-              thumbnail={thumbYelpCamp}
+              id="myUniLibrary"
+              title="MyUniLibrary"
+              thumbnail={thumbMyUni}
             >
-              A full-stack CRUD app built with pure JS and Node.js with a
-              MongoDB back-end
+              A full stack library management application. With authentication and authorization. Built with React and a Postgresql backend.
             </WorkGridItem>
           </Section>
           <Section>
@@ -33,6 +33,17 @@ const Works = () => {
               A full CRUD react application to store, search and learn about pokemon.
             </WorkGridItem>
           </Section>
+          <Section>
+            <WorkGridItem
+              id="yelpcamp"
+              title="YelpCamp"
+              thumbnail={thumbYelpCamp}
+            >
+              A full-stack CRUD app built with pure JS and Node.js with a
+              MongoDB back-end
+            </WorkGridItem>
+          </Section>
+          
         </SimpleGrid>
       </Container>
     </Layout>
